@@ -11,4 +11,3 @@ Die Stadt ist namensgebend für die Linzer Torte, deren Rezept als das älteste be
 ![Katze](https://github.com/KernHub/CE_UE_WS17_A4-2/blob/master/k01355585/kitty.jpg)
 
 [Quelle](https://de.wikipedia.org/wiki/Linz)
-
